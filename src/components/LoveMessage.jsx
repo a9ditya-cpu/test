@@ -1,16 +1,16 @@
 function LoveMessage() {
   const messages = [
     {
-      title: "Meri jaan Sakshi ke naam",
-      content: "Har roz tumhare saath ek nai kahani jaisi lagti hai, tumhari muskaan se hi mera din shuru aur khatam hota hai.",
+      title: "Kuchupuchu 😚😚",
+      content: "Zyada acha toh nhi bana paya, but we will continue to update this webpage",
     },
     {
-      title: "Tum hi meri saari duniya ho",
-      content: "Tum mein mujhe mera sabse pyaara dost, mera sahaara aur meri sabse badi mohabbat teeno mil gaye.",
+      title: "My worldddd🌍💞",
+      content: "Your eyes steal my words away, isliye your fault, mujhe kuch smjh nhi aa rha kya likhu😒",
     },
     {
-      title: "Har pal tumhara shukraguzaar hoon",
-      content: "Tumhare saath bitaya har chhota sa pal bhi mere liye khazana hai, jise main hamesha dil mein saja kar rakhunga.",
+      title: "Poet me-",
+      content: "If I had a candy bar for every time I thought of you, I would be fat, but still i am not.😭 — Aditya",
     },
   ]
 

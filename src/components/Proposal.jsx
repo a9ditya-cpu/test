@@ -18,8 +18,7 @@ function Proposal() {
           Ek bahut zaroori sawaal, babygurll 💍
         </h2>
         <p className="text-center text-sm text-ios-gray mb-6">
-          Tumhare saath bitaya har pal mujhe yeh ehsaas dilata hai ki tum mere liye kitni zyada khaas ho.
-          Bas tumse ek masoom sa sawaal poochna hai...
+          Mujhe na tumse bhot sara prem hai, toh maii bass ye puchna chahta hu ki 'kuch bhi force nhi kiya jayega, aap apni icchaa vyakt kr skte hai idhr😞'
         </p>
 
         <div className="relative h-40 flex items-center justify-center">
@@ -56,10 +55,10 @@ function Proposal() {
           ) : (
             <div className="text-center animate-fade-in">
               <p className="text-2xl font-bold text-ios-blue mb-3">
-                Tumne haan keh di! 🎉
+                Yayyyy! 🎉
               </p>
               <p className="text-sm text-ios-gray">
-                Main wada karta hoon ki har din tumhe muskuraane ki wajah doonga aur tumhara saath kabhi nahi chhodunga, Sakshi. 💜
+                Foreverrr yoursss!! 💜
               </p>
             </div>
           )}

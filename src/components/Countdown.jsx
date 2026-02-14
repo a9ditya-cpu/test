@@ -48,7 +48,7 @@ function Countdown() {
   return (
     <div className="ios-card p-6">
       <h2 className="text-xl font-semibold text-black text-center mb-6">
-        Hamare agle Valentine Day tak ka intezaar
+        Valentine's😚
       </h2>
       <div className="grid grid-cols-4 gap-3 mb-6">
         {timeUnits.map((unit, index) => (
@@ -66,7 +66,7 @@ function Countdown() {
         ))}
       </div>
       <p className="text-center text-sm font-medium text-ios-blue">
-        Tumhare saath wali zindagi ka har second khaas hai, Sakshi ☕💜
+        We spend almost 12 hours together everyday but not on Valentine's, its frustrating😤 ☕💜
       </p>
     </div>
   )

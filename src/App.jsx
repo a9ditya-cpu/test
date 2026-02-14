@@ -31,7 +31,7 @@ function App() {
         <div className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-pink-50 px-6 text-center">
           <div className="animate-bounce text-7xl mb-6 drop-shadow-lg">🌸</div>
           <h1 className="text-3xl font-extrabold text-pink-600 mb-6 font-serif">
-            Sakshi, aapke liye ek chhota sa surprise...
+            Babygurll ek chhota sa surprise...
           </h1>
           <p className="text-pink-400 mb-8 font-medium italic animate-pulse">
             Make sure your volume is UP! 🔊
@@ -40,7 +40,7 @@ function App() {
             onClick={startEverything}
             className="bg-pink-500 text-white px-12 py-4 rounded-full text-xl font-bold shadow-[0_10px_20px_rgba(236,72,153,0.3)] hover:bg-pink-600 active:scale-90 transition-all"
           >
-            Enter My World 💜
+            Andar chale devi ji!?💜
           </button>
         </div>
       )}
@@ -84,8 +84,8 @@ function App() {
                 {page === 'home' && (
                   <div className="space-y-10 pb-10">
                     <header className="text-center">
-                      <span className="text-pink-400 font-bold text-[10px] tracking-[0.2em] uppercase">Today's Special</span>
-                      <h1 className="text-4xl font-extrabold text-gray-900 mt-1">For Sakshi 💜</h1>
+                      <span className="text-pink-400 font-bold text-[10px] tracking-[0.2em] uppercase">Itss Valentine'sss dayy</span>
+                      <h1 className="text-4xl font-extrabold text-gray-900 mt-1">Buboooo 💜</h1>
                     </header>
                     
                     <div className="flex justify-center"><Heart /></div>

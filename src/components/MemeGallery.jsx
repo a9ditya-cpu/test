@@ -2,9 +2,9 @@ import React from 'react';
 
 function MemeGallery() {
   const memes = [
-    { id: 1, url: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/c76IJLufpN960/giphy.gif', caption: "When Sakshi says 'Nahi main gussa nahi hoon'" },
+    { id: 1, url: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/c76IJLufpN960/giphy.gif', caption: "😼" },
     { id: 2, url: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L2z7uYM5qn830JqlyC/giphy.gif', caption: "Me waiting for your reply like..." },
-    { id: 3, url: '/images/meme1.jpg', caption: "Our first inside joke 😂" },
+    { id: 3, url: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L2z7uYM5qn830JqlyC/giphy.gif', caption: "Our first inside joke" },
     // Aur memes yahan add karo...
   ];
 
@@ -12,7 +12,7 @@ function MemeGallery() {
     <div className="space-y-6">
       <div className="px-2">
         <h3 className="text-xl font-bold text-pink-600 mb-4 flex items-center gap-2">
-          <span>😂</span> Our Inside Jokes
+          <span>😼</span> Inside Jokes
         </h3>
         
         <div className="columns-2 gap-4 space-y-4">
@@ -30,7 +30,7 @@ function MemeGallery() {
       </div>
 
       <div className="ios-card bg-pink-50 p-4 text-center">
-        <p className="text-xs text-pink-400">Har meme mein ek purani kahani hai... ❤️</p>
+        <p className="text-xs text-pink-400"> This website will keep receiving updates by the love of your life kindly be patient!❤️</p>
       </div>
     </div>
   );

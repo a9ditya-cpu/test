@@ -47,7 +47,7 @@ function PhotoGallery() {
   return (
     <div>
       <h2 className="text-lg font-semibold text-black text-center mb-4">
-        Hamari pyari si yaadein
+        Yaadeinnnn😭
       </h2>
 
       {/* Envelope - appears before explosion */}
@@ -65,7 +65,7 @@ function PhotoGallery() {
             </div>
             {!envelopeClicked && (
               <p className="text-ios-gray text-sm mt-4 animate-pulse">
-                Click karo, Sakshi! ✨
+                Click karo, Bbgurll! ✨
               </p>
             )}
           </button>
@@ -125,7 +125,7 @@ function PhotoGallery() {
 
       {photosExploded && (
         <p className="text-center mt-4 text-ios-gray text-sm animate-fade-in">
-          Yahan hamari pasandida tasveeren jodenge, Sakshi! 📸
+          Idhr humari world trip ki pictures save krnge , like an album, baad mee! 📸
         </p>
       )}
     </div>

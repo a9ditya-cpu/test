@@ -41,10 +41,10 @@ function UniversePage() {
             </div>
             
             <h2 className="text-3xl font-bold text-white drop-shadow-md mb-2">
-              Sakshi's Galaxy
+              Wedding Page
             </h2>
             <p className="text-white/90 text-sm font-medium px-4">
-              Is puri universe mein, mera favorite destination tumhari muskaan hai.
+              Shaadi kab krnge hum😭
             </p>
           </div>
 
@@ -55,7 +55,7 @@ function UniversePage() {
                   <div className="w-10 h-10 bg-pink-100 rounded-xl flex items-center justify-center text-xl shadow-inner">💫</div>
                   <div className="text-left">
                     <p className="text-white text-xs font-bold">CURRENT STATUS</p>
-                    <p className="text-white text-sm">Deeply in love with you</p>
+                    <p className="text-white text-sm">In love with you</p>
                   </div>
                 </div>
                 <button className="bg-white text-pink-500 px-4 py-1.5 rounded-full text-sm font-bold shadow-lg">VIEW</button>
@@ -69,7 +69,7 @@ function UniversePage() {
             <span>✨</span> Cosmic Connection
           </h3>
           <p className="text-gray-600 text-sm leading-relaxed italic">
-            "Sitaare tumhara naam likhte hain aur har grah tumhari muskaan se roshan ho jaata hai."
+            "Kanha ji, ko bhi yaha update krna hai mujhe😭"
           </p>
         </div>
 
@@ -79,7 +79,7 @@ function UniversePage() {
               <div className="w-12 h-12 bg-pink-500 rounded-2xl flex items-center justify-center text-2xl shadow-lg shadow-pink-200">🚀</div>
               <div>
                 <h4 className="font-bold text-gray-800">Mission: Forever</h4>
-                <p className="text-xs text-gray-400">Destination: Sakshi's Heart</p>
+                <p className="text-xs text-gray-400">Destination: yourr Heart</p>
               </div>
            </div>
            <div className="flex -space-x-3">
@@ -91,7 +91,7 @@ function UniversePage() {
       </div>
 
       {/* iOS Style Bottom Tab Bar (Fixed at bottom of frame) */}
-      <div className="absolute bottom-0 left-0 right-0 h-20 bg-white/80 backdrop-blur-xl border-t border-gray-100 flex items-center justify-around px-8 pb-4">
+      {/* <div className="absolute bottom-0 left-0 right-0 h-20 bg-white/80 backdrop-blur-xl border-t border-gray-100 flex items-center justify-around px-8 pb-4">
         <div className="flex flex-col items-center gap-1 text-gray-400">
           <span className="text-2xl">🏠</span>
           <span className="text-[10px] font-bold">Home</span>
@@ -104,7 +104,7 @@ function UniversePage() {
           <span className="text-2xl">📸</span>
           <span className="text-[10px] font-bold">Memories</span>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
